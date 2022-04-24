@@ -1,0 +1,1 @@
+export 'search_result_music_by_artist_model.dart';
